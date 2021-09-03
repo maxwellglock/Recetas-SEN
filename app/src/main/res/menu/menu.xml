@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:android2="http://schemas.android.com/apk/res"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/Masapps"
+        android:title="+ Apps" />
+    <item
+        android:id="@+id/CalificarItem"
+        android:title="Califícar App" />
+    <item
+        android:id="@+id/Compartirapp"
+        android:title="Compartir" />
+
+
+</menu>

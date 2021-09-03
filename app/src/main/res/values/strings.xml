@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Recetas Saludables y Fit</string>
+    <string name="textview_titol">Título</string>
+    <string name="valoracio">10</string>
+    <string name="ingredients">Ingredientes</string>
+    <string name="pasos">Pasos</string>
+    <string name="duracion">duración</string>
+    <string name="descripcion">descripción</string>
+    <string name="numero">1</string>
+    <string name="valoracion">Da tu valoración de la receta:</string>
+    <string name="submitvaloracion">OK</string>
+    <string name="compartirreceta">Comparta la receta:</string>
+    <string name="todo">TODO</string>
+</resources>
