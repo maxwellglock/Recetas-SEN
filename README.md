@@ -1,4 +1,4 @@
-# Recetas De Postres
+# Recetas FIT
 
 Android app about dessert recipes. With step by step on how to make the dessert and rating system. Android API 27
 
@@ -9,3 +9,6 @@ Features:
   
 How to run: 
   </br>-Just import it on Android Studio and run it
+  
+  Download the app in:
+  </b><a href="https://play.google.com/store/apps/details?id=sen.calfit.mobileapps.comsen.cat.com">Play Store</a>
